@@ -1,9 +1,4 @@
 # GLOBAL TERRORISM REPORT
-Analysed by **Phuong T.M. Chu** and **Ho Huy Hoa** 
-
-**GLOBAL TERRORISM ANALYSIS** is the project that we finished after the 3rd week of studying **Machine Learning**.
-
-![](https://www.start.umd.edu/gtd/images/START_GlobalTerrorismDatabase_TerroristAttacksConcentrationIntensityMap_45Years.png)
 
 ## Introduction
 
